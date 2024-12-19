@@ -56,6 +56,10 @@
     "xtr1common": "cpp",
     "xutility": "cpp",
     "map": "cpp",
-    "xtree": "cpp"
+    "xtree": "cpp",
+    "iostream": "cpp",
+    "algorithm": "cpp",
+    "regex": "cpp",
+    "set": "cpp"
   }
 }

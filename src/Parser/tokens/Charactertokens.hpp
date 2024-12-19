@@ -1,6 +1,6 @@
 #ifndef HTMLTOKEN_HPP
 #define HTMLTOKEN_HPP
-#include <HTMLtokens.hpp>
+#include <tokens/HTMLtokens.hpp>
 
 class CharacterToken : HTMLToken
 {

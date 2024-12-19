@@ -1,8 +1,13 @@
-#ifndef HTMLTOKEN_H
-#define HTMLTOKEN_H
+#ifndef HTMLTOKENS_H
+#define HTMLTOKENS_H
 
 #include <string>
 #include <map>
+#include <Charactertokens.hpp>
+#include <Commenttokens.hpp>
+#include <Doctypetokens.hpp>
+#include <Endtokens.hpp>
+#include <Starttokens.hpp>
 
 class HTMLToken
 {
